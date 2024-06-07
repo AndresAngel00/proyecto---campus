@@ -1,0 +1,26 @@
+{
+    "campers": [
+        {
+            "cedula": "1234",
+            "nombres": "Felipe",
+            "apellidos": "Rodrigez",
+            "direccion": "calle 106",
+            "acudiente": "Graciela",
+            "numero de celular": "312673483"
+        },
+        {
+            "cedula": "1234",
+            "nombres": "andres",
+            "apellidos": "carlos",
+            "direccion": "1256",
+            "acudiente": "felipe",
+            "numero de celular": "12343423"
+        }
+    ],
+    "trainer": [],
+    "coordinadores": [],
+    "areas": [],
+    "salones": [],
+    "Rutas": [],
+    "matriculas": []
+}
